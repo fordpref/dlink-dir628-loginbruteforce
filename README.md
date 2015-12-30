@@ -19,6 +19,6 @@ My guess is that the password has to be stored in plain text on the router somew
 Will be looking for that next<br> 
 <br>
 <br>
-USAGE:  python dlink-dir628-brute.py <ip of device> <path to wordlist> <br>
+USAGE:  python dlink-dir628-brute.py \<ip of device\> \<path to wordlist\> <br>
 <br>
 this may cause router to crash around 33,000 attempts...or so.
